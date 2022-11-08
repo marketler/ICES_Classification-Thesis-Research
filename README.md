@@ -9,6 +9,7 @@ The "Oman_AIS" folder contains the Oman data in three .txt files while also cont
 Then there are 2 files for the data engineering:
 - SPA_Data_edit.ipynb
 - SDA_Data_edit.ipynb
+
 These files create the final datasets needed for the models, "Data/full_set_SPA.csv" and "Data/full_set_SDA.csv".
 
 These models can be found in files:
